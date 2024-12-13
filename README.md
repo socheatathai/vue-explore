@@ -11,7 +11,6 @@ To get the most out of your development experience with Vue.js, the following ID
   - Vue VSCode Snippets
   - ESLint (for maintaining code quality)
 
-
 ## Project Setup
 
 To get started with this project, follow the steps below:
