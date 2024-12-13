@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+# Let's Start with Vue.js
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is initialized to explore the Vue.js framework and get started with its features and capabilities. It serves as an introduction to Vue.js, helping you familiarize yourself with its structure and functionality.
 
 ## Recommended IDE Setup
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+To get the most out of your development experience with Vue.js, the following IDEs and tools are recommended:
+
+- **Visual Studio Code**: A popular, lightweight code editor with excellent support for Vue.js, including extensions like:
+  - Vetur (syntax highlighting, IntelliSense, formatting, etc.)
+  - Vue VSCode Snippets
+  - ESLint (for maintaining code quality)
+
+
+## Project Setup
+
+To get started with this project, follow the steps below:
+
+### 1. Clone the Repository
+
+To clone this project to your local machine, use the following command:
+
+```bash
+git clone https://github.com/socheatathai/vue-explore.git
